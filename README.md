@@ -1,6 +1,6 @@
 # Alexa-Boilerplate
 
-> Boilerplate project to create a simple alexa skill with ES6 syntax features
+> Boilerplate project to create a simple alexa skill with ES6 syntax features and testing
 
 ## Getting Started
 

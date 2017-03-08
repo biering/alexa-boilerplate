@@ -8,8 +8,11 @@
 `git clone https://github.com/chryb/alexa-boilerplate.git`
 
 `cd alexa-boilerplate`
-> install dev dependencies
+
+
+
 `npm install`
+> install dev dependencies
 
 `cd src`
 `npm install`

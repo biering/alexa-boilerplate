@@ -4,26 +4,27 @@
 
 ## Getting Started
 
-#### Clone this repo
 `git clone https://github.com/chryb/alexa-boilerplate.git`
+> Clone this repository
 
 `cd alexa-boilerplate`
-
-
 
 `npm install`
 > install dev dependencies
 
 `cd src`
+
 `npm install`
+> install skill / alexa dependencies
 
-#### in the root dictionary
+#### In the root dictionary
 
-#### Build and zip the sources
+##### You cann build and zip the sources with
 `gulp build`
 
-#### Test the code (with mocha & chai) specified under ./test
+##### Or test the code (with mocha & chai) specified under `./test` with
 `gulp test`
 
+--- 
 
 You can find the final .zip under `./builds` to upload it to AWS Lambda.

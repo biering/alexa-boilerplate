@@ -19,12 +19,12 @@
 
 #### In the root dictionary
 
-##### You cann build and zip the sources with
+##### You can build and zip the sources with
 `gulp build`
 
 ##### Or test the code (with mocha & chai) specified under `./test` with
 `gulp test`
 
---- 
+---
 
 You can find the final .zip under `./builds` to upload it to AWS Lambda.

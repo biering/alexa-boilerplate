@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "",
+    "application": {
+      "applicationId": "amzn1.ask.skill.37dabde4-ab1b-4ffa-a199-e7206657db04"
+    },
+    "attributes": {},
+    "user": {
+      "userId": null
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "",
+    "timestamp": "2016-07-05T22:02:01Z",
+    "intent": {
+      "name": "HelloIntent",
+      "slots": {
+        "Word": {
+          "name": "Word",
+          "value": "hello"
+        }
+      }
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}

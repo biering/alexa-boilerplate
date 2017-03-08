@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "HelloIntent",
+      "slots": [
+        {
+          "name": "Word",
+          "type": "WORD"
+        }
+      ]
+    },
+    {
+      "intent": "AboutIntent"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+HelloIntent what is {Word} in Spanish
+AboutIntent who wrote this app
+AboutIntent who is the author of this skill
+AboutIntent wer hat die app geschrieben

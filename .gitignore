@@ -1,3 +1,5 @@
 node_modules
+src/node_modules
+dist/node_modules
 builds/package.zip
 .DS_Store

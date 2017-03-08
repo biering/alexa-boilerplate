@@ -1,26 +1,28 @@
 {
   "name": "alexa-boilerplate",
   "version": "1.0.0",
-  "description": "'Skeleton to build Alexa Skills using ES2015/ES6'",
+  "description": "Alexa Boilerplate with ES6",
   "main": "index.js",
-  "dependencies": {
-    "alexa-app": "^3.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "babel-preset-es2015": "^6.5.0",
+    "aws-lambda-mock-context": "^3.0.1",
     "babel-cli": "^6.5.1",
-    "del": "^2.2.0",
+    "babel-core": "^6.23.1",
+    "babel-preset-es2015": "^6.5.0",
     "babel-preset-stage-0": "^6.5.0",
+    "chai": "^3.5.0",
+    "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.5.2",
-    "gulp-zip": "^3.2.0"
+    "gulp-zip": "^3.2.0",
+    "mocha": "^3.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "github.com:digitzfone/alexa-skill-skeleton"
+    "url": "github.com:chryb/alexa-boilerplate"
   },
   "author": "Christoph Biering <chryb.q@gmail.com> (http://chryb.me)",
   "license": "ISC"
